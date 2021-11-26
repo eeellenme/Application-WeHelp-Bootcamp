@@ -1,1 +1,1 @@
-# Application-WeHelp-Bootcamp
+# Application for WeHelp Bootcamp
